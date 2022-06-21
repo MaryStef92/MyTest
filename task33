@@ -6,6 +6,9 @@
     </head>
     <body>
         <h1> Review</h1>
+        <p>this new form</p>
+        <h2>new one h2</h2>
+        <p2>added one new h2</p2>
         <form action="" method="post">
             <label for="fname">First name:</label>
             <br>
